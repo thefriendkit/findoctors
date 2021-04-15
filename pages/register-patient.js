@@ -32,7 +32,7 @@ const RegisterPatient = () => {
 									<div id="pass-info" className="clearfix"></div>
 									<div className="checkbox-holder text-left">
 										<div className="checkbox_2">
-											<input type="checkbox" value="accept_2" id="check_2" name="check_2" checked />
+											<input type="checkbox" value="accept_2" id="check_2" name="check_2" />
 											<label for="check_2"><span>I Agree to the <strong>Terms &amp; Conditions</strong></span></label>
 										</div>
 									</div>

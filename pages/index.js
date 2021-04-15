@@ -19,7 +19,7 @@ export default function Home() {
 						</div>
 						<ul>
 							<li>
-								<input type="radio" id="all" name="radio_search" value="all" checked />
+								<input type="radio" id="all" name="radio_search" value="all" />
 								<label for="all">All</label>
 							</li>
 							<li>

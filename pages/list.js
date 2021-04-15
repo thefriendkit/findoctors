@@ -24,7 +24,7 @@ const List = () => {
                         <li>
                             <h6>Type</h6>
                             <div className="switch-field">
-                                <input type="radio" id="all" name="type_patient" value="all" checked />
+                                <input type="radio" id="all" name="type_patient" value="all" />
                                 <label for="all">All</label>
                                 <input type="radio" id="doctors" name="type_patient" value="doctors" />
                                 <label for="doctors">Doctors</label>
