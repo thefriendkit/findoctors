@@ -1,6 +1,6 @@
-import Footer from '../partials/Footer'
-import Navbar from '../partials/Navbar'
-import Head from '../partials/header'
+import Navbar from './Navbar'
+import Head from './header'
+import Footer from './footer'
 const Layout  = ({ children }) => {
     return (         
         <div className="content">
