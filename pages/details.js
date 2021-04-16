@@ -82,27 +82,27 @@ const Details = () => {
 											<ul class="time_select">
 												<li>
 													<input type="radio" id="radio1" name="radio_time" value="09.30am" />
-													<label for="radio1">09.30am</label>
+													<label htmlFor="radio1">09.30am</label>
 												</li>
 												<li>
 													<input type="radio" id="radio2" name="radio_time" value="10.00am" />
-													<label for="radio2">10.00am</label>
+													<label htmlFor="radio2">10.00am</label>
 												</li>
 												<li>
 													<input type="radio" id="radio3" name="radio_time" value="10.30am" />
-													<label for="radio3">10.30am</label>
+													<label htmlFor="radio3">10.30am</label>
 												</li>
 												<li>
 													<input type="radio" id="radio4" name="radio_time" value="11.00am" />
-													<label for="radio4">11.00am</label>
+													<label htmlFor="radio4">11.00am</label>
 												</li>
 												<li>
 													<input type="radio" id="radio5" name="radio_time" value="11.30am" />
-													<label for="radio5">11.30am</label>
+													<label htmlFor="radio5">11.30am</label>
 												</li>
 												<li>
 													<input type="radio" id="radio6" name="radio_time" value="12.00am" />
-													<label for="radio6">12.00am</label>
+													<label htmlFor="radio6">12.00am</label>
 												</li>
 											</ul>
 										</div>
@@ -110,27 +110,27 @@ const Details = () => {
 											<ul class="time_select">
 												<li>
 													<input type="radio" id="radio7" name="radio_time" value="01.30pm" />
-													<label for="radio7">01.30pm</label>
+													<label htmlFor="radio7">01.30pm</label>
 												</li>
 												<li>
 													<input type="radio" id="radio8" name="radio_time" value="02.00pm" />
-													<label for="radio8">02.00pm</label>
+													<label htmlFor="radio8">02.00pm</label>
 												</li>
 												<li>
 													<input type="radio" id="radio9" name="radio_time" value="02.30pm" />
-													<label for="radio9">02.30pm</label>
+													<label htmlFor="radio9">02.30pm</label>
 												</li>
 												<li>
 													<input type="radio" id="radio10" name="radio_time" value="03.00pm" />
-													<label for="radio10">03.00pm</label>
+													<label htmlFor="radio10">03.00pm</label>
 												</li>
 												<li>
 													<input type="radio" id="radio11" name="radio_time" value="03.30pm" />
-													<label for="radio11">03.30pm</label>
+													<label htmlFor="radio11">03.30pm</label>
 												</li>
 												<li>
 													<input type="radio" id="radio12" name="radio_time" value="04.00pm" />
-													<label for="radio12">04.00pm</label>
+													<label htmlFor="radio12">04.00pm</label>
 												</li>
 											</ul>
 										</div>
@@ -143,49 +143,49 @@ const Details = () => {
 										<li>
 											<div class="checkbox">
 												<input type="checkbox" class="css-checkbox" id="visit1" name="visit1" />
-												<label for="visit1" class="css-label">Back Pain visit <strong>$55</strong></label>
+												<label htmlFor="visit1" class="css-label">Back Pain visit <strong>$55</strong></label>
 											</div>
 										</li>
 										<li>
 											<div class="checkbox">
 												<input type="checkbox" class="css-checkbox" id="visit2" name="visit2" />
-												<label for="visit2" class="css-label">Cardiovascular screen <strong>$55</strong></label>
+												<label htmlFor="visit2" class="css-label">Cardiovascular screen <strong>$55</strong></label>
 											</div>
 										</li>
 										<li>
 											<div class="checkbox">
 												<input type="checkbox" class="css-checkbox" id="visit3" name="visit3" />
-												<label for="visit3" class="css-label">Diabetes consultation <strong>$55</strong></label>
+												<label htmlFor="visit3" class="css-label">Diabetes consultation <strong>$55</strong></label>
 											</div>
 										</li>
 										<li>
 											<div class="checkbox">
 												<input type="checkbox" class="css-checkbox" id="visit4" name="visit4" />
-												<label for="visit4" class="css-label">Icontinence visit <strong>$55</strong></label>
+												<label htmlFor="visit4" class="css-label">Icontinence visit <strong>$55</strong></label>
 											</div>
 										</li>
 										<li>
 											<div class="checkbox">
 												<input type="checkbox" class="css-checkbox" id="visit5" name="visit5" />
-												<label for="visit5" class="css-label">Foot Pain visit <strong>$55</strong></label>
+												<label htmlFor="visit5" class="css-label">Foot Pain visit <strong>$55</strong></label>
 											</div>
 										</li>
 										<li>
 											<div class="checkbox">
 												<input type="checkbox" class="css-checkbox" id="visit6" name="visit6" />
-												<label for="visit6" class="css-label">Food intollerance visit <strong>$55</strong></label>
+												<label htmlFor="visit6" class="css-label">Food intollerance visit <strong>$55</strong></label>
 											</div>
 										</li>
 										<li>
 											<div class="checkbox">
 												<input type="checkbox" class="css-checkbox" id="visit7" name="visit7" />
-												<label for="visit7" class="css-label">Neck Pain visit <strong>$55</strong></label>
+												<label htmlFor="visit7" class="css-label">Neck Pain visit <strong>$55</strong></label>
 											</div>
 										</li>
 										<li>
 											<div class="checkbox">
 												<input type="checkbox" class="css-checkbox" id="visit8" name="visit8" />
-												<label for="visit8" class="css-label">Back Pain visit <strong>$55</strong></label>
+												<label htmlFor="visit8" class="css-label">Back Pain visit <strong>$55</strong></label>
 											</div>
 										</li>
 									</ul>

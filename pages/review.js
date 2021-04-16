@@ -19,11 +19,11 @@ const Review = () => {
 							<div className="form-group">
 							<label className="d-block">Overall rating</label>
 							<span className="rating">
-								<input type="radio" className="rating-input" id="5_star" name="rating-input" value="5 Stars"/><label for="5_star" className="rating-star" ></label>
-								<input type="radio" className="rating-input" id="4_star" name="rating-input" value="4 Stars"/><label for="4_star" className="rating-star" ></label>
-								<input type="radio" className="rating-input" id="3_star" name="rating-input" value="3 Stars"/><label for="3_star" className="rating-star" ></label>
-								<input type="radio" className="rating-input" id="2_star" name="rating-input" value="2 Stars"/><label for="2_star" className="rating-star" ></label>
-								<input type="radio" className="rating-input" id="1_star" name="rating-input" value="1 Star"/><label for="1_star" className="rating-star" ></label>
+								<input type="radio" className="rating-input" id="5_star" name="rating-input" value="5 Stars"/><label htmlFor="5_star" className="rating-star" ></label>
+								<input type="radio" className="rating-input" id="4_star" name="rating-input" value="4 Stars"/><label htmlFor="4_star" className="rating-star" ></label>
+								<input type="radio" className="rating-input" id="3_star" name="rating-input" value="3 Stars"/><label htmlFor="3_star" className="rating-star" ></label>
+								<input type="radio" className="rating-input" id="2_star" name="rating-input" value="2 Stars"/><label htmlFor="2_star" className="rating-star" ></label>
+								<input type="radio" className="rating-input" id="1_star" name="rating-input" value="1 Star"/><label htmlFor="1_star" className="rating-star" ></label>
 							</span>
 							</div>
 						</div>

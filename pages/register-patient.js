@@ -1,3 +1,4 @@
+import Link from 'next/link'
 const RegisterPatient = () => {
     return ( 
     <main>
@@ -33,12 +34,13 @@ const RegisterPatient = () => {
 									<div className="checkbox-holder text-left">
 										<div className="checkbox_2">
 											<input type="checkbox" value="accept_2" id="check_2" name="check_2" />
-											<label for="check_2"><span>I Agree to the <strong>Terms &amp; Conditions</strong></span></label>
+											<label htmlFor="check_2"><span>I Agree to the <strong>Terms &amp; Conditions</strong></span></label>
 										</div>
 									</div>
 									<div className="form-group text-center add_top_30">
 										<input className="btn_1" type="submit" value="Submit" />
 									</div>
+									<p className="text-center link_bright">If you are a Doctor use this <Link href="/register-doctor"><a><strong>Register</strong></a></Link></p>
 								</div>
 								<p className="text-center"><small>Has voluptua vivendum accusamus cu. Ut per assueverit temporibus dissentiet. Eum no atqui putant democritum, velit nusquam sententiae vis no.</small></p>
 							</form>
